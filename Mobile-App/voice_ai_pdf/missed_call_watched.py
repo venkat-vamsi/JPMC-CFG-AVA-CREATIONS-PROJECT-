@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 
 # ========== CONFIGURATION ==========
 EXOTEL_SID = "voiceaiagent1"
-EXOTEL_API_KEY = "755db22d56b6953e96e7346d74f1de494e881f177fbd1a5a"  
-EXOTEL_API_TOKEN = "576ffdaeb3bc5ccc4ac7413409b5265dd0af73c817674414" 
+EXOTEL_API_KEY =  
+EXOTEL_API_TOKEN = 
 EXOPHONE = "04045210864"
 
 # Poll only last 5 minutes of logs
@@ -14,8 +14,8 @@ LOOKBACK_MINUTES = 1
 POLL_INTERVAL_SECONDS = 5
 
 # Twilio settings
-TWILIO_SID = "ACf2dfeaba2cb9f97201e17959c5ab9e92"
-TWILIO_AUTH_TOKEN = "01e559b16c9336aaf164e491c18fca0f"
+TWILIO_SID = 
+TWILIO_AUTH_TOKEN = 
 TWILIO_FROM = "+16814333258"
 
 TWIML_URL = "https://5432-167-103-2-95.ngrok-free.app/voice"

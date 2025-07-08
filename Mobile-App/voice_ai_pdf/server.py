@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s: %(me
 logger = logging.getLogger(__name__)
 
 # Gemini API key
-GEMINI_API_KEY = "AIzaSyB4TNhWHSNVdPqrURh92E_tWGXx3HDp_dE"
+GEMINI_API_KEY = 
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Open-Meteo API (free, no API key required)
