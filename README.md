@@ -1,4 +1,4 @@
-# Team-30: JPMC-CFG-AVA-CREATIONS-PROJECT
+# Team-30: WINNER OF AVA CREATIONS PROBLEM STATEMENT
 # 🌳 AVA Creations Digital Empowerment Platform 🌳
 
 <p align="center">
