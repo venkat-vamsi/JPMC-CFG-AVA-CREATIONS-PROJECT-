@@ -2,7 +2,7 @@
 # 🌳 AVA Creations Digital Empowerment Platform 🌳
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Status-In%20Development-green?style=for-the-badge" alt="Project Status"/>
+  <img src="https://img.shields.io/badge/Project%20Status-MVP%20COMPLETED-green?style=for-the-badge" alt="Project Status"/>
   <img src="https://img.shields.io/badge/Tech%20for-Social%20Good-orange?style=for-the-badge" alt="Tech for Social Good"/>
   <img src="https://img.shields.io/badge/Made%20with-❤️%20&%20Code-blueviolet?style=for-the-badge" alt="Made with Love and Code"/>
 </p>
