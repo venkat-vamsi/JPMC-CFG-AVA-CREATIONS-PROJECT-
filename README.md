@@ -130,3 +130,4 @@ To ensure inclusivity for artisans without smartphones, particularly in low-conn
 
     # Clean and install dependencies
     mvn clean install
+
